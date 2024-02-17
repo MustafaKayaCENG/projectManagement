@@ -1,0 +1,14 @@
+C:\Users\Mustafa KAYA\source\repos\projectManagement\bin\Debug\net8.0\projectManagement.exe
+C:\Users\Mustafa KAYA\source\repos\projectManagement\bin\Debug\net8.0\projectManagement.deps.json
+C:\Users\Mustafa KAYA\source\repos\projectManagement\bin\Debug\net8.0\projectManagement.runtimeconfig.json
+C:\Users\Mustafa KAYA\source\repos\projectManagement\bin\Debug\net8.0\projectManagement.dll
+C:\Users\Mustafa KAYA\source\repos\projectManagement\bin\Debug\net8.0\projectManagement.pdb
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.AssemblyInfoInputs.cache
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.AssemblyInfo.cs
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.dll
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\refint\projectManagement.dll
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.pdb
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\projectManagement.genruntimeconfig.cache
+C:\Users\Mustafa KAYA\source\repos\projectManagement\obj\Debug\net8.0\ref\projectManagement.dll
